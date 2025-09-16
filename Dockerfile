@@ -16,4 +16,4 @@ VOLUME ["/home/node/.n8n"]
 EXPOSE 5678
 
 # Comando padrão
-? CMD ["n8n"]
+# CMD ["n8n"]
